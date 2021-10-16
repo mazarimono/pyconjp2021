@@ -9,13 +9,13 @@
     - 2. ファイル形式
     - 3. 活用案
         - 3.1 個人の行動データ
-        - データ: []()
+        - データ: [GPS trajectory linked data project ](https://github.com/koujikozaki/GPS2LOD)
         - 3.2 国勢調査
-        - データ: []()
+        - データ: [国勢調査](https://www.e-stat.go.jp/gis)
         - 3.3 気象データ
-        - データ: []()
+        - データ: [p-tree](https://www.eorc.jaxa.jp/ptree/index_j.html)
         - 3.4 衛星データ
-        - データ: []()
+        - データ: [Copernicus Open Access Hub](https://scihub.copernicus.eu/)
 
 
 - Notebooks
